@@ -33,7 +33,7 @@ A CLI tool to generate professional summaries for GitHub pull requests using LLM
 Clone this repo and install locally:
 
 ```sh
-git clone https://github.com/Manoj-Kumar-BV/GenAI-Powered-Pull-Request-Summaries.git
+git clone https://github.com/Santhuji/GenAI-Powered-Pull-Request-Summaries.git
 cd GenAI-Powered-Pull-Request-Summaries
 pip install .
 ```
@@ -47,7 +47,7 @@ pip install -e .
 ### 3. From GitHub (without cloning)
 
 ```sh
-pip install git+https://github.com/Manoj-Kumar-BV/GenAI-Powered-Pull-Request-Summaries.git
+pip install git+https://github.com/Santhuji/GenAI-Powered-Pull-Request-Summaries.git
 ```
 
 > **Note:**  
