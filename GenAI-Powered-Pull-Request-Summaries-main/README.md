@@ -149,6 +149,6 @@ For each file changed in a pull request, the tool:
 
 ## Support
 
-For issues, please open an [issue in this repository](https://github.com/Manoj-Kumar-BV/GenAI-Powered-Pull-Request-Summaries/issues).
+For issues, please open an [issue in this repository](https://github.com/Santhuji/GenAI-Powered-Pull-Request-Summaries/issues).
 
 ---
